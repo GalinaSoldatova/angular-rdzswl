@@ -1,0 +1,21 @@
+form {
+  padding-top: 1rem;
+}
+
+label {
+  display: block;
+  margin: 0.5em 0;
+  font-weight: bold;
+}
+
+input,
+select {
+  width: 200px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.alert {
+  color: red;
+  font-size: 12px;
+}
